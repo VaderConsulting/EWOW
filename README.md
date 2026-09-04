@@ -21,6 +21,10 @@ VB.NET WinForms Mission Controller (EWOW) whose startup object is `Mission_Contr
 
 Open `EWOW.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2005
+
 ## Attribution and provenance
 
 - No third-party source-code attribution markers were identified in assembly/package metadata.
