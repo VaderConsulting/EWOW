@@ -27,6 +27,7 @@ Open `EWOW.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `EWOW`.
 - No third-party source-code attribution markers were identified in assembly/package metadata.
 
 ## License
